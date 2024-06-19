@@ -112,7 +112,7 @@ This first post is a living document meaning that I'll come back to it over time
 
 - ???
 
-### How are classical computers being used to suplament quantum computing?
+### How are classical computers being used to supplement quantum computing?
 
 - Error correction in logical Qbits
 - I/O
