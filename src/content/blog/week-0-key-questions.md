@@ -10,7 +10,7 @@ description: Laying the foundation for some of the questions I'll try to answer 
 
 This first post is a living document meaning that I'll come back to it over time as my studies continue. It will be a simple Q&A format where I can document some of the biggest questions I run into, and eventually document the answers.
 
-## Mathamatics Questions
+## Mathematics Questions
 
 ### What are the key math concepts necessary to understand quantum computing?
 
@@ -20,7 +20,7 @@ This first post is a living document meaning that I'll come back to it over time
 
 ### What are the key physics concepts necessary to understand quantum computing?
 
-- Electricity & Circuts
+- Electricity & Circuits
 - Quantum Physics
 
 ## Engineering Questions
