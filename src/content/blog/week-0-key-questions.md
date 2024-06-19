@@ -99,16 +99,16 @@ This first post is a living document meaning that I'll come back to it over time
 - Microsoft Q#
 - ???
 
-### What are the major quantum algorythims?
+### What are the major quantum algorithms?
 
-- Shores Algorythm?
+- Shores algorithms?
 - Random Generators?
 
-### How do you go about writing a quantum algorythm?
+### How do you go about writing a quantum algorithims?
 
 - ???
 
-### What makes a good candadite for a quantum algorythm?
+### What makes a good candadite for a quantum algorithim?
 
 - ???
 
